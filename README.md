@@ -1,1 +1,1 @@
-# ORMQueryingDjango_PY_CSI_Starter
+# DjangoQueryingLab_PY_Starter
