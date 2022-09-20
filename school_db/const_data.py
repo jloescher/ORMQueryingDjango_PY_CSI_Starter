@@ -173,7 +173,7 @@ view_information = {
         'expected_terminal_results': [
             'Id: 11',
             'Full Name: Kyle Harwood',
-            'Year: 2022',
+            'Year: 9',
             'GPA: 3.0'
         ],
         'expected_resulting_sql': [
@@ -182,7 +182,7 @@ view_information = {
                 'query_lines': [
                     'INSERT INTO `school_db_student` (`first_name`, `last_name`, `year`, `gpa`)',
                     'NOTE: The information in the values will be what you chose',
-                    'VALUES (\'Kyle\', \'Harwood\', 2022, 3.0)'
+                    'VALUES (\'Kyle\', \'Harwood\', 9, 3.0)'
                 ]
             }
         ]
