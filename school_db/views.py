@@ -241,7 +241,7 @@ https://docs.djangoproject.com/en/4.0/ref/models/querysets/#create
 """
 Id: 11
 Full Name: Kyle Harwood
-Year: 2022
+Year: 9
 GPA: 3.0
 """
 
@@ -249,7 +249,7 @@ GPA: 3.0
 """
 INSERT INTO `school_db_student` (`first_name`, `last_name`, `year`, `gpa`)
 # NOTE: The information in the values will be what you chose
-VALUES ('Kyle', 'Harwood', 2022, 3.0)
+VALUES ('Kyle', 'Harwood', 9, 3.0)
 """
 
 
